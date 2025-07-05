@@ -10,15 +10,15 @@
     border: 1.5px solid black;
 }
 .content{
-    padding: 20px 80px;
+    padding: 50px 200px;
 }
 /*.content{
     max-width: 900px;
     margin: 0 auto;
 }*/
 .img_container,img{
-    width: 100px;
-    height: 120px;
+    width: 300px;
+    height: 320px;
 }
 
 .img_container{
@@ -34,39 +34,42 @@
 
 .top_section h3{
       text-transform: uppercase;
-      font-size: 17px;
+      font-size: 60px;
 
 }
 .top_section h5{
     text-align: end;
     color: rgb(52, 52, 52);
-    font-size: 8px;
+    font-size: 28px;
 }
 
 .about_section h2{
-    font-size: 15px;
-    margin-top: 20px;
+    font-size: 40px;
+    margin-top: 25px;
     color: rgb(52, 52, 52);
+    margin-bottom: 10px;
+    margin-top: 20px;
 }
 .about_section p{
-    font-size: 7px;
-    line-height: 8px;
+    font-size: 20px;
+    line-height: 25px;
     text-align: justify;
 
 }
 
 .drama h4{
-    font-size: 9px ;
-    margin-top: 20px;
+    font-size: 35px ;
+    margin-top: 28px;
     color: rgb(52, 52, 52);
 }
 .drama li{
-    margin-left: 15px;
-    font-size: 7px;
-    line-height: 8px;
+    margin-left: 35px;
+    font-size: 20px;
+    line-height: 25px;
 }
 footer p{
     text-align: end;
-    font-size: 5px;
-    margin-top: 10px;
+    font-size: 18px;
+    margin-top: 15px;
+    color: rgb(52, 52, 52);
 }
